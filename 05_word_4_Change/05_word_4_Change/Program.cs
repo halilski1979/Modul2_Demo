@@ -20,6 +20,7 @@ namespace _05_word_4_Change
             c = a;
             a = b;
             b = c;
+
             Console.WriteLine("After");
             Console.WriteLine($"a={a}");
             Console.WriteLine($"b={b}");
