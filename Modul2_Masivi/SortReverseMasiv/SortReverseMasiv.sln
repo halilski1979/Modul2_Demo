@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortReverseMasiv", "SortReverseMasiv\SortReverseMasiv.csproj", "{95B42A2D-0BD3-4721-B365-33C8E5A90E12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95B42A2D-0BD3-4721-B365-33C8E5A90E12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95B42A2D-0BD3-4721-B365-33C8E5A90E12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95B42A2D-0BD3-4721-B365-33C8E5A90E12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95B42A2D-0BD3-4721-B365-33C8E5A90E12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36126605-FFCA-4D46-BBCB-B2609A17265E}
+	EndGlobalSection
+EndGlobal
